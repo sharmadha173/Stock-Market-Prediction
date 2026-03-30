@@ -25,3 +25,9 @@ Getting Started :
     data/: Contains historical CSV files.
     notebooks/: The main Jupyter Notebook for EDA and modeling.
     models/: Saved weights and serialized model files.
+    <img width="750" height="571" alt="image" src="https://github.com/user-attachments/assets/27ca7aa0-17ad-4122-b402-11912a49b7ac" />
+    <img width="781" height="562" alt="image" src="https://github.com/user-attachments/assets/24c18e7b-3e45-457d-a077-870c1c1d4963" />
+    <img width="690" height="708" alt="image" src="https://github.com/user-attachments/assets/b576c08e-5426-4d92-8ebd-22c076fd0fe6" />
+
+
+
